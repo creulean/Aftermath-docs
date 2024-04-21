@@ -34,6 +34,7 @@
     * [将资产抵押到农场](nong-chang/jiao-cheng/jiang-zi-chan-di-ya-dao-nong-chang.md)
     * [索赔奖励](nong-chang/jiao-cheng/suo-pei-jiang-li.md)
     * [解除质押](nong-chang/jiao-cheng/jie-chu-zhi-ya.md)
+    * [创建农场](nong-chang/jiao-cheng/chuang-jian-nong-chang.md)
   * [架构](nong-chang/jia-gou/README.md)
     * [保险库](nong-chang/jia-gou/bao-xian-ku.md)
     * [质押头寸](nong-chang/jia-gou/zhi-ya-tou-cun.md)
