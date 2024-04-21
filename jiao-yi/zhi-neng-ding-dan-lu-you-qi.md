@@ -18,4 +18,4 @@ coverY: 0
 
 <figure><img src="../.gitbook/assets/spaces_meKfXaQnIP3bbI1AdlVX_uploads_7nSHyBIZhXijPzJBnCut_Screenshot 2024-02-21 at 11.webp" alt=""><figcaption><p>智能订单路由器交换分成多个子路径</p></figcaption></figure>
 
-通过考虑无需许可的可组合性来设计我们的路由器，我们已经为其他 Sui 构建者简化了将 SOR 集成到他们的 dApps 中。当前的 SOR 集成包括 Aftermath 的[动态气体](../dong-tai-qi-ti.md)功能，在 [Nightly wallet](https://twitter.com/Nightly\_app)中进行钱包内交换，在 [Scallop](https://twitter.com/Scallop\_io) 工具 UI 中进行交换，以及通过 [Suiba](https://twitter.com/SuibaOnSUI) 电报机器人进行交易，更多集成即将宣布！
+通过考虑无需许可的可组合性来设计我们的路由器，我们已经为其他 Sui 构建者简化了将 SOR 集成到他们的 dApps 中。当前的 SOR 集成包括 Aftermath 的[动态气体](../kai-shi-shi-yong/dong-tai-qi-ti.md)功能，在 [Nightly wallet](https://twitter.com/Nightly\_app)中进行钱包内交换，在 [Scallop](https://twitter.com/Scallop\_io) 工具 UI 中进行交换，以及通过 [Suiba](https://twitter.com/SuibaOnSUI) 电报机器人进行交易，更多集成即将宣布！

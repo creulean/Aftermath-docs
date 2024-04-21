@@ -1,5 +1,5 @@
 ---
-cover: ../.gitbook/assets/截屏2024-03-20 01.43.18.png
+cover: ../../.gitbook/assets/截屏2024-03-20 01.43.18.png
 coverY: 0
 ---
 

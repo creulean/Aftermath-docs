@@ -2,11 +2,11 @@
 
 在屏幕顶部菜单栏的最右侧，您会找到一个齿轮图标。 点击这个图标可以让您自定义查看和与Aftermath Finance dApp 互动的方式。
 
-<figure><img src="../.gitbook/assets/spaces_meKfXaQnIP3bbI1AdlVX_uploads_bsALhx7QSPD11NjlKolZ_Screenshot 2024-02-21 at 8.webp" alt=""><figcaption><p>最右边的齿轮图标打开设置菜单</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/spaces_meKfXaQnIP3bbI1AdlVX_uploads_bsALhx7QSPD11NjlKolZ_Screenshot 2024-02-21 at 8.webp" alt=""><figcaption><p>最右边的齿轮图标打开设置菜单</p></figcaption></figure>
 
 在设置菜单中，您将找到以下参数，您可以根据自己的喜好进行设置：
 
-<figure><img src="../.gitbook/assets/spaces_meKfXaQnIP3bbI1AdlVX_uploads_W13AG5gWm98GARC90sYL_Screenshot 2024-02-21 at 11.webp" alt=""><figcaption><p>Aftermath设置菜单</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/spaces_meKfXaQnIP3bbI1AdlVX_uploads_W13AG5gWm98GARC90sYL_Screenshot 2024-02-21 at 11.webp" alt=""><figcaption><p>Aftermath设置菜单</p></figcaption></figure>
 
 燃气费：在这里，您可以选择要使用哪种硬币支付燃气费以在事后进行交易。有关更多信息，请参阅文档中的[动态燃气](../dong-tai-qi-ti.md)部分。
 

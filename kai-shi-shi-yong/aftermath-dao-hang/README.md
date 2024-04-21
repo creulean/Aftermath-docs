@@ -8,19 +8,19 @@ description: 在哪里找到我们的各种产品并查看您所有的余额
 
 一旦您启动了我们的dApp，您将看到屏幕顶部有一个菜单栏，它允许您快速在各种产品和功能之间进行导航。我们将逐一介绍它们，从左至右。
 
-<figure><img src="../.gitbook/assets/spaces_meKfXaQnIP3bbI1AdlVX_uploads_VAJRvW0PfODq5lEHmiUp_Screenshot 2024-02-21 at 8.webp" alt=""><figcaption><p>Aftemath菜单栏</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/spaces_meKfXaQnIP3bbI1AdlVX_uploads_VAJRvW0PfODq5lEHmiUp_Screenshot 2024-02-21 at 8.webp" alt=""><figcaption><p>Aftemath菜单栏</p></figcaption></figure>
 
 ## 交易
 
-点击“交易”按钮会带您进入我们的智能订单路由器（SOR），它允许您在任意两种资产之间进行交换。SOR是一个DEX聚合器，连接到Sui上所有顶级流动性来源。此外，它能够发现通过多个DEX的复杂路径，并且甚至可以拆分订单，使一部分经过一条路径，另一部分经过其他路径。所有这些都确保您将获得最佳的交易回报，而无需手动搜索多个不同的交易所。SOR为您完成了这些工作。有关更多信息，请参阅文档中的“[交易](../jiao-yi/zhi-neng-ding-dan-lu-you-qi.md)”部分。
+点击“交易”按钮会带您进入我们的智能订单路由器（SOR），它允许您在任意两种资产之间进行交换。SOR是一个DEX聚合器，连接到Sui上所有顶级流动性来源。此外，它能够发现通过多个DEX的复杂路径，并且甚至可以拆分订单，使一部分经过一条路径，另一部分经过其他路径。所有这些都确保您将获得最佳的交易回报，而无需手动搜索多个不同的交易所。SOR为您完成了这些工作。有关更多信息，请参阅文档中的“[交易](../../jiao-yi/zhi-neng-ding-dan-lu-you-qi.md)”部分。
 
 ## 质押 SUI
 
-导航到抵押 SUI 页面，您可以铸造我们的流动权益衍生品（LSD），afSUI。通过原生 SUI 抵押，您可以获得奖励作为保障 Sui 网络的回报，但是您的 SUI 代币仍然被锁定在钱包中，并且不能用于 DeFi 中的任何其他目的。使用 afSUI，您可以获得相同的质押奖励，同时还会发行一种可用于多种其他目的的流动代币。有关 afSUI 的更多信息，请参阅文档中关于[流动质押权益衍生品](../liu-dong-zhi-ya/afsui.md)部分。
+导航到抵押 SUI 页面，您可以铸造我们的流动权益衍生品（LSD），afSUI。通过原生 SUI 抵押，您可以获得奖励作为保障 Sui 网络的回报，但是您的 SUI 代币仍然被锁定在钱包中，并且不能用于 DeFi 中的任何其他目的。使用 afSUI，您可以获得相同的质押奖励，同时还会发行一种可用于多种其他目的的流动代币。有关 afSUI 的更多信息，请参阅文档中关于[流动质押权益衍生品](../../liu-dong-xing-zhi-ya/afsui.md)部分。
 
 ## 赚取
 
-如果您将鼠标悬停在“赚取”按钮上，您将看到一个下拉菜单，其中包含指向我们的池和农场页面的链接。 池是您可以成为Aftermath上流动性提供者（LP）并从我们的AMM交易活动中获得费用的地方。 农场允许您拿着从存入池中收到的LP代币，并通过抵押它来获得额外奖励。 有关更多信息，请参阅文档中的[池](../chi-zi/heng-ding-han-shu-zuo-shi-shang.md)和[农场](../nong-chang/afterburner-bao-xian-ku.md)部分。
+如果您将鼠标悬停在“赚取”按钮上，您将看到一个下拉菜单，其中包含指向我们的池和农场页面的链接。 池是您可以成为Aftermath上流动性提供者（LP）并从我们的AMM交易活动中获得费用的地方。 农场允许您拿着从存入池中收到的LP代币，并通过抵押它来获得额外奖励。 有关更多信息，请参阅文档中的[池](../../chi/heng-ding-han-shu-zuo-shi-shang.md)和[农场](../../nong-chang/afterburner-bao-xian-ku.md)部分。
 
 ## 投资组合
 

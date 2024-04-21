@@ -1,6 +1,6 @@
 # 索赔奖励
 
-一旦您将资金存入Afterburner Vault，您就可以监控您的仓位状态并执行各种操作。如果您已经在多个农场中抵押了资金，您可以导航到“投资组合”选项卡，选择“农场”选项卡，并轻松查看所有的农场仓位并转到它们各自的页面。有关更多信息，请参阅文档中的“[查看投资组合：农场](../../aftermath-dao-hang/cha-kan-nin-de-tou-zi-zu-he.md)”部分。
+一旦您将资金存入Afterburner Vault，您就可以监控您的仓位状态并执行各种操作。如果您已经在多个农场中抵押了资金，您可以导航到“投资组合”选项卡，选择“农场”选项卡，并轻松查看所有的农场仓位并转到它们各自的页面。有关更多信息，请参阅文档中的“[查看投资组合：农场](../../kai-shi-shi-yong/aftermath-dao-hang/cha-kan-nin-de-tou-zi-zu-he.md)”部分。
 
 <figure><img src="../../.gitbook/assets/spaces_meKfXaQnIP3bbI1AdlVX_uploads_89wNspydTalA4IkgIuiA_Screenshot 2024-02-22 at 10.webp" alt=""><figcaption></figcaption></figure>
 

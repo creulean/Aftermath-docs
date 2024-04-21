@@ -10,17 +10,17 @@ Dynamic Gas 允许用户使用除 SUI 之外的硬币来支付燃气费用，以
 
 目前，Dynamic Gas 支持 afSUI、从Ethereum、Arbitrum、Solana 或 BNB 桥接过来的 USDC，以及从以太坊桥接过来的 USDT。要选择您想使用哪种燃气代币，请单击屏幕顶部菜单栏最右侧处设置按钮。它显示为齿轮图标：
 
-<figure><img src=".gitbook/assets/spaces_meKfXaQnIP3bbI1AdlVX_uploads_2i5oqRVz2RJlQWiRBP4d_Screenshot 2024-02-21 at 8.webp" alt=""><figcaption><p>设置可通过屏幕顶部菜单栏最右侧的齿轮图标访问</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/spaces_meKfXaQnIP3bbI1AdlVX_uploads_2i5oqRVz2RJlQWiRBP4d_Screenshot 2024-02-21 at 8.webp" alt=""><figcaption><p>设置可通过屏幕顶部菜单栏最右侧的齿轮图标访问</p></figcaption></figure>
 
 点击齿轮图标将展开设置下拉菜单。在这里，您会看到一个名为Gas的选项，点击后会打开一个菜单，然后让您选择要用来支付交易的硬币。
 
 <div>
 
-<figure><img src=".gitbook/assets/spaces_meKfXaQnIP3bbI1AdlVX_uploads_0Fx6paTeaQoHlmFe1QtT_Screenshot 2024-02-21 at 8.webp" alt=""><figcaption><p>设置菜单已展开</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/spaces_meKfXaQnIP3bbI1AdlVX_uploads_0Fx6paTeaQoHlmFe1QtT_Screenshot 2024-02-21 at 8.webp" alt=""><figcaption><p>设置菜单已展开</p></figcaption></figure>
 
  
 
-<figure><img src=".gitbook/assets/spaces_meKfXaQnIP3bbI1AdlVX_uploads_RpqpaONZj4VuhEy3kuWn_Screenshot 2024-02-21 at 8.webp" alt=""><figcaption><p>选择您的gas加密货币</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/spaces_meKfXaQnIP3bbI1AdlVX_uploads_RpqpaONZj4VuhEy3kuWn_Screenshot 2024-02-21 at 8.webp" alt=""><figcaption><p>选择您的gas加密货币</p></figcaption></figure>
 
 </div>
 

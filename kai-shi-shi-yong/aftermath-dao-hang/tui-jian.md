@@ -8,7 +8,7 @@ description: 因为分享就是关心
 
 您独特的推荐链接可以在交易和质押页面底部位于“Share and Earn Rewards”横幅中找到。 点击“复制推荐链接”按钮将您独特的推荐链接复制到剪贴板上。 您随后可以通过社交媒体分享它。
 
-<figure><img src="../.gitbook/assets/spaces_meKfXaQnIP3bbI1AdlVX_uploads_RkTcYBeXgzUcdsmwFL6C_Screenshot 2024-02-26 at 7.webp" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/spaces_meKfXaQnIP3bbI1AdlVX_uploads_RkTcYBeXgzUcdsmwFL6C_Screenshot 2024-02-26 at 7.webp" alt=""><figcaption></figcaption></figure>
 
 当一个新用户点击您的链接时，您的推荐将包含在URL中。一旦新用户在Aftermath执行任何交易，您的推荐将被存储在链上，并且该用户执行的所有交易都将归因于您。
 
