@@ -1,12 +1,6 @@
 # Table of contents
 
-* [我们的验证器](README.md)
-  * [关于我们](wo-men-de-yan-zheng-qi/guan-yu-wo-men.md)
-* [开发人员](kai-fa-ren-yuan/README.md)
-  * [入门](kai-fa-ren-yuan/ru-men.md)
-  * [路由器](kai-fa-ren-yuan/lu-you-qi.md)
-  * [流动性质押](kai-fa-ren-yuan/liu-dong-xing-zhi-ya.md)
-  * [池](kai-fa-ren-yuan/chi.md)
+* [开发人员](README.md)
 * [EGG](egg/README.md)
   * [关于Egg](egg/guan-yu-egg.md)
 * [官方链接](guan-fang-lian-jie/README.md)
@@ -85,12 +79,24 @@
 
 ## GAMEFI
 
-* [NFT AMM](gamefi/nft-amm.md)
+* [NFT自动做市](gamefi/nft-zi-dong-zuo-shi.md)
 * [架构](gamefi/jia-gou/README.md)
   * [Fission保险库](gamefi/jia-gou/fission-bao-xian-ku.md)
-  * [AMM池](gamefi/jia-gou/amm-chi.md)
+  * [自动做市池](gamefi/jia-gou/zi-dong-zuo-shi-chi.md)
 * [教程](gamefi/jiao-cheng/README.md)
-  * [Page 1](gamefi/jiao-cheng/page-1.md)
-  * [Page 2](gamefi/jiao-cheng/page-2.md)
-  * [Page 3](gamefi/jiao-cheng/page-3.md)
-  * [Page 4](gamefi/jiao-cheng/page-4.md)
+  * [购买](gamefi/jiao-cheng/gou-mai.md)
+  * [出售](gamefi/jiao-cheng/chu-shou.md)
+  * [存入](gamefi/jiao-cheng/cun-ru.md)
+  * [取出](gamefi/jiao-cheng/qu-chu.md)
+
+## 验证器
+
+* [关于我们](yan-zheng-qi/guan-yu-wo-men.md)
+
+## 开发人员
+
+* [入门](kai-fa-ren-yuan-1/ru-men.md)
+* [路由器](kai-fa-ren-yuan-1/lu-you-qi.md)
+* [流动性质押](kai-fa-ren-yuan-1/liu-dong-xing-zhi-ya.md)
+* [池](kai-fa-ren-yuan-1/chi.md)
+* [Sui Overflow](kai-fa-ren-yuan-1/sui-overflow.md)
