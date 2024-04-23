@@ -1,15 +1,8 @@
 # Table of contents
 
-* [官方链接](README.md)
-  * [Github](https://github.com/AftermathFinance)
-  * [Medium](https://aftermathfi.medium.com/)
-  * [Audit Report - CFMM](https://ottersec.notion.site/Aftermath-bd6347aa26984d7c98e4f2c8a39623e4)
-  * [Audit Report - LSD](https://ottersec.notion.site/Aftermath-LSD-974103fb60994bc7b622bbd01fe913ff)
-  * [Aftermath Validator](https://suiscan.xyz/mainnet/validator/0xd30018ec3f5ff1a3c75656abf927a87d7f0529e6dc89c7ddd1bd27ecb05e3db2/info)
-
 ## AFTERMATH
 
-* [关于 Aftermath Finance](aftermath/guan-yu-aftermath-finance/README.md)
+* [关于 Aftermath Finance](README.md)
   * [我们在构造什么？](aftermath/guan-yu-aftermath-finance/wo-men-zai-gou-zao-shi-mo.md)
 
 ## 开始使用
@@ -90,11 +83,11 @@
 
 ## 开发人员
 
-* [入门](kai-fa-ren-yuan/ru-men.md)
-* [路由器](kai-fa-ren-yuan/lu-you-qi.md)
-* [流动性质押](kai-fa-ren-yuan/liu-dong-xing-zhi-ya.md)
-* [池](kai-fa-ren-yuan/chi.md)
-* [Sui Overflow](kai-fa-ren-yuan/sui-overflow.md)
+* [入门](kai-fa-ren-yuan-1/ru-men.md)
+* [路由器](kai-fa-ren-yuan-1/lu-you-qi.md)
+* [流动性质押](kai-fa-ren-yuan-1/liu-dong-xing-zhi-ya.md)
+* [池](kai-fa-ren-yuan-1/chi.md)
+* [Sui Overflow](kai-fa-ren-yuan-1/sui-overflow.md)
 
 ## EGG
 
@@ -104,3 +97,6 @@
 
 * [推特](https://twitter.com/AftermathFi)
 * [Discord](https://discord.gg/ycAPRZaX)
+* [Github](https://github.com/AftermathFinance)
+* [Medium](https://aftermathfi.medium.com/)
+* [Aftermath Validator](https://suiscan.xyz/mainnet/validator/0xd30018ec3f5ff1a3c75656abf927a87d7f0529e6dc89c7ddd1bd27ecb05e3db2/info)
