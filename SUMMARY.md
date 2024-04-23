@@ -1,11 +1,6 @@
 # Table of contents
 
-* [开发人员](README.md)
-* [EGG](egg/README.md)
-  * [关于Egg](egg/guan-yu-egg.md)
-* [官方链接](guan-fang-lian-jie/README.md)
-  * [推特](https://twitter.com/AftermathFi)
-  * [Discord](https://discord.gg/ycAPRZaX)
+* [官方链接](README.md)
   * [Github](https://github.com/AftermathFinance)
   * [Medium](https://aftermathfi.medium.com/)
   * [Audit Report - CFMM](https://ottersec.notion.site/Aftermath-bd6347aa26984d7c98e4f2c8a39623e4)
@@ -95,8 +90,17 @@
 
 ## 开发人员
 
-* [入门](kai-fa-ren-yuan-1/ru-men.md)
-* [路由器](kai-fa-ren-yuan-1/lu-you-qi.md)
-* [流动性质押](kai-fa-ren-yuan-1/liu-dong-xing-zhi-ya.md)
-* [池](kai-fa-ren-yuan-1/chi.md)
-* [Sui Overflow](kai-fa-ren-yuan-1/sui-overflow.md)
+* [入门](kai-fa-ren-yuan/ru-men.md)
+* [路由器](kai-fa-ren-yuan/lu-you-qi.md)
+* [流动性质押](kai-fa-ren-yuan/liu-dong-xing-zhi-ya.md)
+* [池](kai-fa-ren-yuan/chi.md)
+* [Sui Overflow](kai-fa-ren-yuan/sui-overflow.md)
+
+## EGG
+
+* [关于Egg](egg/guan-yu-egg.md)
+
+## 官方链接
+
+* [推特](https://twitter.com/AftermathFi)
+* [Discord](https://discord.gg/ycAPRZaX)

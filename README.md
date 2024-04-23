@@ -5,12 +5,12 @@ layout:
   description:
     visible: false
   tableOfContents:
-    visible: true
+    visible: false
   outline:
     visible: true
   pagination:
     visible: false
 ---
 
-# 开发人员
+# 官方链接
 
